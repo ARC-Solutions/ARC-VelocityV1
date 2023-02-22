@@ -7,25 +7,25 @@ void setup() {
 }
 
 void loop() {
-  digitalWrite(11, HIGH);
-  delay(400);
-  digitalWrite(11,LOW);
-  delay(600);
+  // digitalWrite(11, HIGH);
+  // delay(400);
+  // digitalWrite(11,LOW);
+  // delay(600);
   //DIRECTION TEST
-  digitalWrite(10,HIGH);
-  digitalWrite(11,LOW);
-  delay(300);
-  digitalWrite(10,LOW);
-  digitalWrite(11,HIGH);
-  delay(850);
+  // digitalWrite(10,HIGH);
+  // digitalWrite(11,LOW);
+  // delay(300);
+  // digitalWrite(10,LOW);
+  // digitalWrite(11,HIGH);
+  // delay(850);
 
   //DRIVE FORWARDS TO THE RIGHT TEST
-  digitalWrite(9,HIGH);
-  digitalWrite(10,HIGH);
-  delay(350);
-  digitalWrite(9,LOW);
-  digitalWrite(10,LOW);
-  delay(999);
+  // digitalWrite(9,HIGH);
+  // digitalWrite(10,HIGH);
+  // delay(350);
+  // digitalWrite(9,LOW);
+  // digitalWrite(10,LOW);
+  // delay(999);
 
   //DRIVE BACKWARDS TO THE LEFT TEST !!DO NOT RUN
   // digitalWrite(8,HIGH);
